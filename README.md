@@ -1,6 +1,6 @@
 Predictive Analysis of TV Show Ratings
 
-This repository contains a machine learning pipeline designed to predict pre-release television show and movie ratings using a large-scale anime dataset. The project focuses on rigorous data preprocessing, feature engineering, and establishing a baseline predictive model for media performance.   
+This repository contains a machine learning pipeline designed to predict pre-release television show and movie ratings using a large-scale anime dataset. The project focuses on rigorous data preprocessing, feature engineering, and establishing a baseline predictive model for media performance. My job i the group project was data preprocessing, feature engineering, and building the initial model.
 
 Data Preprocessing & Feature Engineering
 - Data Cleaning: Filtered out unrated entries and removed irrelevant formats such as 'Music' and 'Radio'. Refined categorical noise by restricting the dataset to major production studios with over 40 entries and licensors with over 20 entries.
